@@ -1,6 +1,6 @@
 # First-Project - Titanic-Dataframe
 ## Project Overview:
-Analysis on the Titanic dataframe with the objective to analyze factors affecting passenger survival rates, using exploratory data analysis. 
+This is my first project on my data science learning adventure. An analysis on the Titanic dataframe with the objective to analyze factors affecting passenger survival rates, using exploratory data analysis. 
 Dataset used: Seaborn Titanic Datset, with 891 passengers. 
 
 ## Key Insights:
